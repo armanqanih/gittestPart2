@@ -19,6 +19,8 @@ class MainActivity : ComponentActivity() {
             GittestPart2Theme {
 
             println("second commit")
+            println("third commit")
+
             }
 
 
