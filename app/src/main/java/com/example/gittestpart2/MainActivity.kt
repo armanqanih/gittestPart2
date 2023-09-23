@@ -18,8 +18,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             GittestPart2Theme {
 
+            println("second commit")
             }
 
-            println()
 
         }}}
