@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
             println("arman")
             println("change1")
             println("change two")
+            println("hello my friend")
 
             }
 
